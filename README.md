@@ -1,0 +1,1 @@
+# Temperature-Condition-Index-TCI-Analysis-Using-MODIS-LST-2000-2024-
